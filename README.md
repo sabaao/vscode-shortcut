@@ -32,3 +32,8 @@ shift + command + f
 ```
 shift + command + o
 ```
+
+## 回上一個游標
+```
+command + u
+```
