@@ -19,3 +19,12 @@ option + command + →
 ```
 option + command + ←
 ```
+## 打開explorer
+```
+shift + command + e
+```
+
+## 全域搜尋
+```
+shift + command + f
+```
