@@ -28,3 +28,7 @@ shift + command + e
 ```
 shift + command + f
 ```
+## 打開method清單
+```
+shift + command + o
+```
