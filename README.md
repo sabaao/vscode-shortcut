@@ -37,3 +37,12 @@ shift + command + o
 ```
 command + u
 ```
+
+## 搜尋檔案
+```
+command + p
+```
+
+# Reference
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+## 切換到右邊的程式
