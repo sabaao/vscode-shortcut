@@ -56,6 +56,13 @@ Fn + F12
 ```
 control + -
 ```
+
+## extract method
+```
+command + .
+```
+
+
 # Reference
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 ## 切換到右邊的程式
