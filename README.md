@@ -62,6 +62,10 @@ control + -
 command + .
 ```
 
+## rename
+```
+Fn + F2
+```
 
 # Reference
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
