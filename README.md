@@ -47,7 +47,10 @@ command + p
 ```
 shift + option + F
 ```
-
+## into implement
+```
+Fn + F12
+```
 # Reference
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 ## 切換到右邊的程式
