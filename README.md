@@ -72,6 +72,36 @@ Fn + F2
 command + .
 ```
 
+## Find next
+```
+command + shift + G
+```
+
+## Add selection to next Find match
+```
+command + D
+```
+
+## Go to File...
+```
+command + P
+```
+
+## Go to Symbol...
+```
+command + Shift + O
+```
+
+## Go to next/previous error or warning
+```
+F8 / Shift + F8
+```
+
+## Go back/forward
+```
+control + - / control + Shift + -
+```
+
 # Reference
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
-## 切換到右邊的程式
+
